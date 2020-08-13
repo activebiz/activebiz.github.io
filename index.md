@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<img src="./images/ab_full_02.png" width="280" height="200" />
 
-You can use the [editor on GitHub](https://github.com/activebiz/activebiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> <p> ActiveBiz is an accounting solution based on pricipal of Anytime Anywhere. This is a web based solutions which removes all hastles of native applications management.Web based platform makes this app easy to use & its strong end user support makes it easy and powerful solution that can serve any size of business no matter if you operate in single region or multiple region with more then one branches.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/activebiz/activebiz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Table Of Contents
+1. Introdution
+2. Accounts
+	1. Master
+		1. [Area](./acc/master/AreaMaster.md)
+		2. [Route](./acc/master/RouteMaster.md)
+		3. Schedule
+		4. Income Accounts
+		5. Expense Accounts
+		6. General Ledger Accounts
+		7. Customer Accounts
+		8. Supplier Accounts
+	2. Transaction
+		1. Accounts Opening Balance
+		2. Cash Voicher
+		3. Bank Voicher
+		4. Journal Voucher
+		5. Sales Invoice
+		6. Purchase Invoice
+		7. Sales Return Invoice
+		8. Purchase Return Invoice
+	3. Report
+4. Inventory
+	1. Master
+	2. Transaction
+	3. Report
+4. Administration
+5. 
