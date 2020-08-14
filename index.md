@@ -13,25 +13,25 @@
 
 1. Introdution
 2. [Accounts](./acc/accounts-basics.md)
-  2.1. Master 
-  2.1.1. [Area](./acc/master/AreaMaster.md)
-  2.1.2. [Route](./acc/master/RouteMaster.md)
-  2.1.3. Schedule
-  2.1.4. Income Accounts
-  2.1.5. Expense Accounts
-  2.1.6. General Ledger Accounts
-  2.1.7. Customer Accounts
-  2.1.8. Supplier Accounts
-  2. Transaction
-  	1. Accounts Opening Balance
-  	2. Cash Voicher
-  	3. Bank Voicher
-  	4. Journal Voucher
-  	5. Sales Invoice
-  	6. Purchase Invoice
-  	7. Sales Return Invoice
-  	8. Purchase Return Invoice
-  3. Report
+2.1. Master 
+2.1.1. [Area](./acc/master/AreaMaster.md)
+2.1.2. [Route](./acc/master/RouteMaster.md)
+2.1.3. Schedule
+2.1.4. Income Accounts
+2.1.5. Expense Accounts
+2.1.6. General Ledger Accounts
+2.1.7. Customer Accounts
+2.1.8. Supplier Accounts
+2.2. Transaction
+2.2.1. Accounts Opening Balance
+ 2.2.2. Cash Voicher
+ 2.2.3. Bank Voicher
+ 2.2.4. Journal Voucher
+ 2.2.5. Sales Invoice
+ 2.2.6. Purchase Invoice
+ 2.2.7. Sales Return Invoice
+ 2.2.8. Purchase Return Invoice
+  2.3. Report
 4. Inventory
   1. Master
   2. Transaction
