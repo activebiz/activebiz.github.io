@@ -1,4 +1,8 @@
-<img src="https://activebiz.github.io/Images/ab_full_02.png" width="280" height="200" />
+<<<<<<< HEAD
+<img src="./Images/ab_full_02.png" width="280" height="200" />
+=======
+<img src="https://github.com/activebiz/activebiz.github.io/blob/master/Images/ab_full_01.png" width="280" height="200" />
+>>>>>>> 5e32c0e0af8ccc6e2830b0d32c1fd1ff091d9c9f
 
 #Introduction
 
