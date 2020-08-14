@@ -14,14 +14,14 @@
 1. Introdution
 2. [Accounts](./acc/accounts-basics.md)
   1. Master 
-  	1. [Area](./acc/master/AreaMaster.md)
-  	2. [Route](./acc/master/RouteMaster.md)
-  	3. Schedule
-  	4. Income Accounts
-  	5. Expense Accounts
-  	6. General Ledger Accounts
-  	7. Customer Accounts
-  	8. Supplier Accounts
+  1.1. [Area](./acc/master/AreaMaster.md)
+  1.2. [Route](./acc/master/RouteMaster.md)
+  1.3. Schedule
+  1.4. Income Accounts
+  1.5. Expense Accounts
+  1.6. General Ledger Accounts
+  1.7. Customer Accounts
+  1.8. Supplier Accounts
   2. Transaction
   	1. Accounts Opening Balance
   	2. Cash Voicher
