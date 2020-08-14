@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <img src="./Images/ab_full_02.png" width="280" height="200" />
-=======
-<img src="https://github.com/activebiz/activebiz.github.io/blob/master/Images/ab_full_01.png" width="280" height="200" />
->>>>>>> 5e32c0e0af8ccc6e2830b0d32c1fd1ff091d9c9f
 
 #Introduction
 
@@ -10,29 +6,29 @@
 
 ### Table Of Contents
 1. Introdution
-2. Accounts
-	1. Master
-		1. [Area](./acc/master/AreaMaster.md)
-		2. [Route](./acc/master/RouteMaster.md)
-		3. Schedule
-		4. Income Accounts
-		5. Expense Accounts
-		6. General Ledger Accounts
-		7. Customer Accounts
-		8. Supplier Accounts
-	2. Transaction
-		1. Accounts Opening Balance
-		2. Cash Voicher
-		3. Bank Voicher
-		4. Journal Voucher
-		5. Sales Invoice
-		6. Purchase Invoice
-		7. Sales Return Invoice
-		8. Purchase Return Invoice
-	3. Report
+2. [Accounts](./acc/accounts-basics.md)
+  1. Master
+  	1. [Area](./acc/master/AreaMaster.md)
+  	2. [Route](./acc/master/RouteMaster.md)
+  	3. Schedule
+  	4. Income Accounts
+  	5. Expense Accounts
+  	6. General Ledger Accounts
+  	7. Customer Accounts
+  	8. Supplier Accounts
+  2. Transaction
+  	1. Accounts Opening Balance
+  	2. Cash Voicher
+  	3. Bank Voicher
+  	4. Journal Voucher
+  	5. Sales Invoice
+  	6. Purchase Invoice
+  	7. Sales Return Invoice
+  	8. Purchase Return Invoice
+  3. Report
 4. Inventory
-	1. Master
-	2. Transaction
-	3. Report
-4. Administration
-5. 
+  1. Master
+  2. Transaction
+  3. Report
+5. Administration
+6. 
