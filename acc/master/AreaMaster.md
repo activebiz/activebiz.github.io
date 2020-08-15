@@ -1,4 +1,4 @@
-<img src="./../../Images/ab_short_01.png" width="240" height="200" />
+<img src="./../../Images/ab_short_01.png" width="80" height="80" />
 
 ***
 ## Area Master
