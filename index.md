@@ -10,6 +10,7 @@
 2. [Accounts](./acc/accounts-basics.md)
    1. [Master](./acc/master/acc-master.md)
       1. [Area](./acc/master/AreaMaster.md)
+3. [How Do I...?](./HowDoI/howdoi-root.md)
 
 
 
