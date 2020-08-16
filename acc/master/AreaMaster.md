@@ -1,6 +1,8 @@
 <img src="./../../Images/ab_short_01.png" width="80" height="80" />
 
 ***
+[Home](./../../Index.md)
+
 ## Area Master
 
 ### Usage
