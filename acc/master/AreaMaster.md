@@ -18,7 +18,7 @@ In case of Business which is into supply chain they  need to group their custome
 To Navigate to Area Master use top legside breadcrumb menu and from Accounts group open Master and there you will find Area Master menu option. By Clicking this Option you will find following two pages.
 
 - [Area List](### Area List)
-- Area Entry
+- [Area Entry](### Area Entry)
 
 ### Area List
 
@@ -33,3 +33,6 @@ This Page assist user to manage Area Record. On this page user will see a Table 
 - **Inactive Existing Record:** Some times we drop certain record(s) from use however we cannot delete them since they were used in past transactions. But since we discarded these records we need to prevent users to accidently use these Record(S) by users. To achieve this goal one can Inactivate any Record by modifying it and disabling its Inactive property to False. This Property is found at the bottom of the record in every Master or Transactions. 
 
   
+
+### Area Entry
+
