@@ -1,4 +1,4 @@
-<img src="./Images/ab_full_02.png" width="280" height="200" />
+<img src="./Images/ab_full_02.png" width="400" height="200" />
 
 
 
@@ -7,7 +7,7 @@
 > ## Table Of Contents
 
 1. [Introduction](### Introduction)
-   1. Enterprise Model
+   1. [Enterprise Model](./intro/Enterprise-Model.md)
    2. Subscription Model
 2. [Accounts](./acc/accounts-basics.md)
    1. [Master](./acc/master/acc-master.md)
