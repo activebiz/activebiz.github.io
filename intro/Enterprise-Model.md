@@ -10,5 +10,7 @@ This hirarchy is o,important when we manage top level business entities in Activ
 
 
 
-![Image](./../../Images/Acc-Assets/Area-List.png)
+![Image](./../Images/Acc-Assets/Area-List.png)
+
+![Imag]()
 
