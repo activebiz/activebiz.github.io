@@ -24,6 +24,12 @@ To Navigate to Area Master use top legside breadcrumb menu and from Accounts gro
 
 This Page assist user to manage Area Record. On this page user will see a Table which contains list of all Area Master records in a Table Control. This Control lets you sort this list by clicking on the Title of the column. First time when you click on any column lust will be ordered in Ascending order of that column value and when pressing second time same list will be ordered in descending order. User can also use this top title column to search the Table for specific word. Pagination is another key feature of this list. Pagination let users set Total No of Records List should display. This value can be changes using combo box given at the bottom of the Table. This bottom part displays Total No of Pages & Next and Previous Page navigation controls which can be use to navigate to next or previous page. It provides futurist to user so user can 
 
+
+
+Figure (1)
+
+
+
 - **Add New Record:**  To add new Record on the top right side of table control there is a (+) symbol which can use to initiate addition of new record. This can be seen in figure (1). On clicking this sign user will navigate to new page where new record can be added. 
 
 - **Search / Sort Record(s):** Search a record from existing list can be performed with the use of table control. On the top of this table in First row you can choose any column to search and then type in the column desired text to search which will filter the list in the table displays only those records which are filtered as per your given text. You can also click on this any single column to sort the list with or without filtering the list. First Click will order the list into Ascending order of that clicked column and again clicking on the same column second time this order will be set to descending order.
@@ -36,3 +42,8 @@ This Page assist user to manage Area Record. On this page user will see a Table 
 
 ### Area Entry
 
+​	This Page provides feature to manage individual record's all properties for Area Master. In Figure (2) you can see screenshot for this Page. Same page appears for Adding New Record , Modify existing Record, Delete existing Record. 
+
+
+
+Figure (2)	
