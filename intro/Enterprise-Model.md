@@ -1,3 +1,5 @@
+<img src="./../Images/ab_short_01.png" width="80" height="80" />
+
 ## Enterprise Model
 
 ​	ActiveBiz is a multi-company multi-location supported business accounting solution that supports enterpuners who are doing their business with multiple entities & having different branches manages by single management group/person. This specific feature set makes ActiveBiz Enterprise Model more versetile and powerful such that one can easily manage multiple Companies under one manageble group called Enterprise. Relationship of Enterprise , Company & Branch can be reviewed in figure (1) below.
@@ -25,7 +27,7 @@ This hierarchy is important when we manage top level business entities in Active
 
 ​	In ActiveBiz resources are shared between companies which must be under a single Enterprise. Here this sharing is done for Masters only for following masters & degree of sharing.
 
-- Chart Of Account:  One can create shared chart of account between more then one companies but prerequsite for the same is that all companies must be belongs to same Enterprise. We can create a chart of Account for Company A, Company B & Company C as shared Chart of Account  Here we can share Schedule , Accounts, Books (Contra Accounts) as shared resources. During sharing there will be two types of information which can be understand with the following details.
+- **Chart Of Account:**  One can create shared chart of account between more then one companies but prerequsite for the same is that all companies must be belongs to same Enterprise. We can create a chart of Account for Company A, Company B & Company C as shared Chart of Account  Here we can share Schedule , Accounts, Books (Contra Accounts) as shared resources. During sharing there will be two types of information which can be understand with the following details.
   - **Shared among Companies:** This type of information is shared among companies & changing these details in any company will immulate these changes to all companies chart of account in which it is shared.
   - **Non-Shared (Specific to Company):** Some details are non shared and always remains specific to company even if its pricipal identity is shared among companies. This will make Chart of Account more configurable which riping the fruits of Shared Resources.
 
@@ -38,12 +40,16 @@ Applicable usage is when more then one companies deal with same customers and al
 | Name                     | Shared              |
 | Address Details          | Shared              |
 | Tax Registration Details | Shared              |
+| Account Balance          | Specific to Company |
 | Credit Limit (Days)      | Specific to Company |
 | Credit Limit (Amount)    | Specific to Company |
 
 *Note:* *Above list represents sample set of properties for complete list check Account section inwhich for every Account Type page will represent its properties.*
 
 
+
+- **Chart Of Item:** Sharing for Utem which is also known as Trading or Manufactureing Product is required when same Item / Product is being tranded among more then one company and all company is managed by single group.It is mostly used in FMCG (Fast Moveble Consumer Goods) Sector where single group manages more then one suppliers among different companies for same type of Item. For Example Edeble Oil is being sold by Company A as Item X which is Manufacrued by P where as Same Edeble Oil is traded by Company B as Item Y which is Manufacturd by Q Where as Company C deals in Item Z which is Manufactured by R. Here in this case when user want to take online order from customer customers can see all these 3 Items A,B,C whenever customer picks Edeble Oil no matter it belongs to different companies but  since same group is managing these companies they can take orders and execute it. In this case also like Chart Of Account user can easily manage same Item between all companies with Shared & Non-Shared Properties. 
+  - 
 
 
 
