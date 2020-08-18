@@ -16,8 +16,10 @@
    1. [Master](./acc/master/acc-master.md)
       1. [Area](./acc/master/AreaMaster.md)
       2. Route
-      3. Schedule
-      4. Account
+      3. Sales Person
+      4. Transporter
+      5. Schedule
+      6. Account
          1. General Ledger
          2. Income Accounts
          3. Expense Accounts
