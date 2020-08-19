@@ -64,6 +64,7 @@ Applicable usage is when more then one companies deal with same customers and al
 | Stock On Hand            | Specific to Company |
 | Scheme / Offers          | Specific to Company |
 | Sales Rate               | Specific to Company |
+
 *Note:* *Above list represents sample set of properties for complete list check Inventory section in which for every Item Type page will represent its properties.*
 
 
