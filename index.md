@@ -18,13 +18,14 @@
       2. Route
       3. Sales Person
       4. Transporter
-      5. Schedule
-      6. Account
-         1. General Ledger
-         2. Income Accounts
-         3. Expense Accounts
-         4. Customer Accounts
-         5. Supplier Accounts
+      5. Chart Of Accounts
+         1. Schedule
+         2. Account
+            1. General Ledger
+            2. Income Accounts
+            3. Expense Accounts
+            4. Customer Accounts
+            5. Supplier Accounts
 3. Inventory
 4. [How Do I...?](./HowDoI/howdoi-root.md)
 5. Admin Tools

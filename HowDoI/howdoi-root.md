@@ -12,7 +12,7 @@
 
 
 
-
+### General
 
 <details> <summary><b>
 How Do I Prevent a master record from being used in other Masters or Transactions ?
