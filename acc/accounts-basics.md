@@ -1,6 +1,6 @@
 <img src="./../../Images/ab_short_01.png" width="80" height="80" />
 
-[Home](gttps://activebiz.github.io)
+[Home](https://activebiz.github.io)
 
 ### Accounts Basics:
 
