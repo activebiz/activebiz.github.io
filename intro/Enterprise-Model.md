@@ -74,9 +74,25 @@ Applicable usage is when more then one companies deal with same customers and al
 
 ​	In this Use case Mr. Rakesh is in FMCG Agency business with more then 1500 Items in trading and having 3 Companies (firms) to manage his whole business activities. He has grouped his all 1500 Items into 25 Groups. These 25 Groups are all same in all 3 Companies. Indeed he is having 3 Companies he is having single set of Infrastrure resources such as SalesPerons, Delivery Vans & Other Back Office staff among all 3 Companies. His workflow for Supply Chain is as below.
 
+### Scenario: When Sales Person Takes Order on Tablet
+
 -  Sales Person has a Daily schedule which is planned on weekly basis. This Plan is set for every Route on which there will be multiple customers in their respective sequence of order in which they are actually being attended. 
 - When Sales Person A Begins his day he takes his Tablet and prepare his Route to begin. Since Route is fixed and so sequence of customers is also fixed he will be presented with Customer in a sequence that is going to be next. 
 - On Reaching Customer he open Customer's profile and collects his new order. During the same process he can also review customer's Due amount Balance, Last 5 Orders,Current Offers & Schemes, Item wise order summary. As this details helps him to take max order from the customer.
 - While taking order Sales Person can take order for all 3 Companies in a single Order Operation. He can locate same Items which is available in different Company in Different Brand to customer and take order. This is possible only necause of Shared Resources.
 - As soon as he submit his order and order reaches ActiveBiz Server Back Office staff can see & process this order immediately even when SalesPerson is on his way.
+
+### Scenatio: When Customer places online order
+
+​	In This scenario each customer is given a unique userName,e so that he can user ActiveBiz Application to login and place an order on his own. He can also check his account ledger and due balance . 
+
+- As soon as user gets login to ActiveBiz using user  and his credentials supplied by his verndor whoc is a ActiveBiz subscriber. Crustomer can use those credentials to login to his account and place an order which will be directly delivered to Vendor.
+- In this process Customer can browse from ActiveBiz using e-Commerece like user Interface where he can explore & add Items to Order Basket. 
+- During the Item Exploration Customer has a view of all 3 Companies all 1500 Items. Customer will filter which is given and set by Vendor as per his criteria he can view all Items from all 3 Companies. Based on selection Customer can Add his selection to Basket & later process the order for final delivery. Here it is to be noted that all 1500 Items which actually belongs to 3 different companies can be viewed as single set of Items insted of 3 seperate companies. Items can be viewed with other details such as Unit Of Measurement, MRP, Sales Rate, Offers if any , Packing etc. details when customer reviews individual Item. 
+- After selection is over Customer can finally process his Basket and ActiveBiz will prepare 3 Sales Order based on Item selection made by Customer and place it to Vendor. 
+- Once Order is placed Vendor can immediately process these new orders & prepare Delivery Note & Sales Unvoice from these Sales Orders which were placed by customer online.  
+
+
+
+##### Related Topics
 
