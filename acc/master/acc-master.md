@@ -1,3 +1,5 @@
+<img src="./../../Images/ab_short_01.png" width="80" height="80" />
+
 ## Accounts Master
 
 
@@ -39,3 +41,17 @@ Like we see every element in nature has a role to play and its own importance ma
   - Profit Allocation Master
 
     
+
+### System Based Master
+
+​	This master is designed and developed by Architects of ActiveBiz at the tome of designing and developing the software system as a whole. This is the base master which will be used in other Masters & Transactions mentioned above. Values of these system Based Masters cannot be changed by anyone. List & usesage of these System Master is mentioned below.
+
+#### List of Systme Based Master for Accounts
+
+- Account Type: 
+- Account Catagory: 
+- Transaction Type:
+- 
+
+
+
