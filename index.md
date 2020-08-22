@@ -16,7 +16,7 @@
    1. [Master](./acc/master/acc-master.md)
       1. [Area](./acc/master/AreaMaster.md)
       2. Route
-      3. Sales Person
+      3. [Sales Person](./acc/master/SalesPerson.md)
       4. Transporter
       5. Chart Of Accounts
          1. Schedule
