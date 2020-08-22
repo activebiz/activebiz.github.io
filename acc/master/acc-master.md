@@ -50,9 +50,9 @@ Like we see every element in nature has a role to play and its own importance ma
 
 #### List of Systme Based Master for Accounts
 
-- Account Type: 
-- Account Catagory: 
-- Transaction Type:
+- **Account Type:** Account Type is the base type which helps to define basic components of Chart Of Accounts. This Includes Schedule, Account, Book (also knows as Contra Account). These premetive components then in hirarchy builds complete functional chart of account.  
+- **Account Catagory:** Account Catagory is special Type which is used to segrigate various Accounts inside Chart of account no matter they are belongs to which Schedule / Group. This Account Catagory can be of Customer, Supplier, Customer & Supplier Both, Income, Expense, Sales, Purchase, Assets, Liabilities. 
+- **Transaction Type:** Transaction Type is used to define when a Book / Contra Account is created. ActiveBiz supports Transactions types such as Cash, Bank, Sales, Purchase, Journal Voucher, Sales Return, Purchase Return.
 - 
 
 
