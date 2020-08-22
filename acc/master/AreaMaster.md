@@ -7,7 +7,7 @@
 
 ### Usage
 
-Area Master is most promotive master which is defined by user. This master is used to create different areas which can be identify geographically. It is used while grouping Customers or suppliers into various geographical areas.
+Area Master is most premetive master which is defined by user. This master is used to create different areas which can be identify geographically. It is used while grouping Customers or suppliers into various geographical areas.
 
 ### Example
 
@@ -17,8 +17,12 @@ In case of Business which is into supply chain they  need to group their custome
 
 To Navigate to Area Master use top legside breadcrumb menu and from Accounts group open Master and there you will find Area Master menu option. By Clicking this Option you will find following two pages.
 
-- [Area List](### Area List)
-- [Area Entry](### Area Entry)
+- [Area Master](#area-master)
+  - [Usage](#usage)
+  - [Example](#example)
+  - [Navigation](#navigation)
+  - [Area List](#area-list)
+  - [Area Entry](#area-entry)
 
 ### Area List
 
