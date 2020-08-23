@@ -16,5 +16,8 @@ In any sales outlet where more then one persons are attending customers over cou
 
 
 
-![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://activebiz.github.io/uml/plantuml/general/sample.txt)
+![alternative text1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://activebiz.github.io/uml/plantuml/general/sample.txt)
 
+
+
+![alternative text2](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://activebiz.github.io/uml/plantuml/general/gannt.txt)
