@@ -1,7 +1,7 @@
 @startuml
 left to right direction
 actor "Sales Person" as fc
-package Sales_Order_Cycle {
+package SalesOrderCycle {
   usecase "Collect Order" as UC1
   usecase "Received Payment" as UC2
   usecase "Clear Credit Notes" as UC3
