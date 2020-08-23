@@ -1,10 +1,10 @@
 @startuml
 left to right direction
-actor "Food Critic" as fc
-package Restaurant {
-  usecase "Eat Food" as UC1
-  usecase "Pay for Food" as UC2
-  usecase "Drink" as UC3
+actor "Sales Person" as fc
+package Sales Order Cycle {
+  usecase "Collect Order" as UC1
+  usecase "Received Payment" as UC2
+  usecase "Clear Credit Notes" as UC3
 }
 fc --> UC1
 fc --> UC2
