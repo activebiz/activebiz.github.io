@@ -13,3 +13,8 @@ In any sales outlet where more then one persons are attending customers over cou
 
 
 ![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://activebiz.github.io/uml/plantuml/general/umltest.txt)
+
+
+
+![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://activebiz.github.io/uml/plantuml/general/sample.txt)
+
