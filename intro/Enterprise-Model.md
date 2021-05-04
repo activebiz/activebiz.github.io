@@ -82,9 +82,9 @@ Applicable usage is when more then one companies deal with same customers and al
 - While taking order Sales Person can take order for all 3 Companies in a single Order Operation. He can locate same Items which is available in different Company in Different Brand to customer and take order. This is possible only necause of Shared Resources.
 - As soon as he submit his order and order reaches ActiveBiz Server Back Office staff can see & process this order immediately even when SalesPerson is on his way.
 
-### Scenatio: When Customer places online order
+### Scenario: When Customer places online order
 
-​	In This scenario each customer is given a unique userName,e so that he can user ActiveBiz Application to login and place an order on his own. He can also check his account ledger and due balance . 
+​	In This scenario each customer is given a unique userName so that he can user ActiveBiz Application to login and place an order on his own. He can also check his account ledger and due balance . 
 
 - As soon as user gets login to ActiveBiz using user  and his credentials supplied by his verndor whoc is a ActiveBiz subscriber. Crustomer can use those credentials to login to his account and place an order which will be directly delivered to Vendor.
 - In this process Customer can browse from ActiveBiz using e-Commerece like user Interface where he can explore & add Items to Order Basket. 
@@ -92,7 +92,12 @@ Applicable usage is when more then one companies deal with same customers and al
 - After selection is over Customer can finally process his Basket and ActiveBiz will prepare 3 Sales Order based on Item selection made by Customer and place it to Vendor. 
 - Once Order is placed Vendor can immediately process these new orders & prepare Delivery Note & Sales Unvoice from these Sales Orders which were placed by customer online.  
 
+### Scenario: Order Processing & Delivery Management
 
+Once Order is placed by Customer in any of the above mentioned two scenario then these orders are displayed to Invoice clerk who prepares Invoices based on Orderes diaplyed on his dashboard. Now Invoice clerk pickup these orders and individually process it as per the availibility of the stock & prints the Invoice based on his delivery schedule cycle. 
+- Here Invoice clerk can process pending orders based on Rote or Areawise customer orders. Once Invoice is generated Order is marked as In Process & Invoice can either be printed individually or later in a bulk Invoice process. When Bukj Invoice is printed at the end of all Invoice printing a Packing summary is generated and printed for Storekeeper & for delivery van person.
+- As per Packing Slip report Storekeeper retrives and packs all deliveries in a single shipment and loads it into van from where delivery person can deliver the Goods along with Invoices & copy of Packing slip summary can deliver these orders to customers.
+- Another method is storekeeper packs individual Invoice wise Goods and prepares seperate parcel for each Invoice and load it in Van and in this case delivery peron will only carry Invoices and delivers all parcels to customers along with Invoices.
 
 ##### Related Topics
 
