@@ -33,6 +33,7 @@
       1. Role
       2. User
       3. Permissions
+   2. Logging
 6. [Support](./support/support.md)
 7. [Glossary of Terms](./glossary/glossary-of-terms.md)
 
@@ -40,6 +41,7 @@
 
 ### Introduction
 
-> <p> ActiveBiz is an accounting solution based on pricipal of Anytime Anywhere. This is a web based solutions which removes all hastles of native applications management.Web based platform makes this app easy to use & its strong end user support makes it easy and powerful solution that can serve any size of business no matter if you operate in single region or multiple region with more then one branches.  
+> <p> ActiveBiz is an accounting solution based on pricipal of Anytime Anywhere. This is a web based solutions which removes all hastles of native applications management.Web based platform makes this app easy to use & its strong end user support makes it easy and powerful solution that can serve any size of business no matter if you operate in single region or multiple region with more then one branches.
+>  In Today's fast pace business enviorment it is always adviseble to implement a solution that works accross geological distances without investing and managing large scalse local infrastructure with team of IT proffesionals & developers. Use our experienced team of proffesionals who are in this field of software development & support since 1995 and works accross multiple platforms and having a deep knowledge accross various industries & complexity to provide sucessful solution to their customers. So, now focus on your own business insted of using your precious time into software development & its challanges.  
 >
 > ​    
