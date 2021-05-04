@@ -1,8 +1,8 @@
 <img src="./../Images/ab_short_01.png" width="80" height="80" />
 
-[Home](https://activebiz.github.io)
+ome](https://activebiz.github.io)
 
-## Enterprise Model
+## Enterprise Model[H
 
 ​	ActiveBiz is a multi-company multi-location supported business accounting solution that supports enterpuners who are doing their business with multiple entities & having different branches manages by single management group/person. This specific feature set makes ActiveBiz Enterprise Model more versetile and powerful such that one can easily manage multiple Companies under one manageble group called Enterprise. Relationship of Enterprise , Company & Branch can be reviewed in figure (1) below.
 

@@ -28,7 +28,7 @@
             5. Supplier Accounts
 3. Inventory
 4. [How Do I...?](./HowDoI/howdoi-root.md)
-5. Admin Tools
+5. [Admin Tools](./AdminTools/admintools.md) 
    1. Security
       1. Role
       2. User
