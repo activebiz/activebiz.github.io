@@ -9,13 +9,16 @@
 - Available anytime anywhere.
 - Works on all popular browsers Like (Chrome, Edge, FireFox)
 - For an Enterprise Milti Company & Multi Branch solution
+- InActive Feature lets you remove any master or transaction record from use without removeing it permenently from system.
+- Dates can be used while reporting as Day Of week, Day Of Month, Day Of Year, No Of week, No Of Month, No. Of Quarter, No Of Half Year to segment your data thus provides various ways to visualise your data while reporting them.
+- 
 
 
 ### Accounts
 - Chart Of Account is Dynamic, hirarchal & extensible.
 - For Non account users Chart Of Account is devided into Customer, Supplier, Income, Expense & General Ledger List. Where each list will focus on it's own type of account which can be assigned to specific user for its Role.
 - Change of account schedule can be managed by a transaction for Point in time effect. This will change account's schedule from specific date of schedule change transaction. This will provide more clerity to accountant.
-- Shared Chart Of Accounts features allows Enterprises who operates multiple companies with same set of customers for their different products & Services can manage their chart of account in Shared manner accross Enterprise among multiple companies. This will make Chart Of Account manageble more easily for volume of customer & Accounts.
+- Shared Chart Of Accounts (Optional) features allows Enterprises who operates multiple companies with same set of customers for their different products & Services can manage their chart of account in Shared manner accross Enterprise among multiple companies. This will make Chart Of Account manageble more easily for volume of customer & Accounts.
 
 ### Inventory
 
