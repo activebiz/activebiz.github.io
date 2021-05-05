@@ -10,7 +10,7 @@
 
 1. [Introduction](### Introduction)
    1. [Enterprise Model](./intro/Enterprise-Model.md)
-   2. Subscription Model
+   2. [Featureset](./intro/Features.md)
    3. Begin your journey with ActiveBiz
 2. [Accounts](./acc/accounts-basics.md)
    1. [Master](./acc/master/acc-master.md)
