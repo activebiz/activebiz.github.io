@@ -28,14 +28,7 @@
             5. Supplier Accounts
 3. Inventory
 4. [How Do I...?](./HowDoI/howdoi-root.md)
-5. [Admin Tools](./AdminTools/admintools.md) 
-   1. Security
-      1. Role
-      2. User
-      3. Permissions
-      4. Default Role Permissions
-   2. [Logging](AdminTools/Logging.md)
-   3. [Change Tracking](AdminTools/ChangeTracjubg.md)
+5. [Administrative Tools](./AdminTools/admintools.md) 
 6. [Support](./support/support.md)
 7. [Glossary of Terms](./glossary/glossary-of-terms.md)
 
