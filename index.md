@@ -16,7 +16,7 @@
    1. [Master](./acc/master/acc-master.md)
    2. [Transactions](acc/Transaction/acc-Transaction.md)
    3. [Reprts](acc/Transaction/acc-Transaction.md)
-3. [Inventory](inv/inventory-basic.md()
+3. [Inventory](inv/inventory-basic.md)
    1. [Master](inv/Master/inv-Master.md)
    2. [Transaction](inv/Transaction/inv-Transaction.md)
    3. [Report](inv/Report/inv-Report.md)

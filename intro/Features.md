@@ -9,7 +9,7 @@
 - Available anytime anywhere.
 - Works on all popular browsers Like (Chrome, Edge, FireFox)
 - Uses SSL for secure browsing experience.
-- For more securuty uses mobile based authorisation as second level secuty.
+- To ensure more securuty ActiveBiz uses Multi Factor Autherntication using Google Authenticator from your Mobile.
 - For an Enterprise Milti Company & Multi Branch solution
 - InActive Feature lets you remove any master or transaction record from use without removeing it permenently from system.
 - Dates can be used while reporting as Day Of week, Day Of Month, Day Of Year, No Of week, No Of Month, No. Of Quarter, No Of Half Year to segment your data thus provides various ways to visualise your data while reporting them.
@@ -31,12 +31,18 @@
 - Shared Chart Of Item will allow users / customers to view & order all products from all shared companies and generate a single Order for delivery. 
 
 ### Order Processing
+- Easy and simple workflow from Order to delivery for easy Order Processing.
+- Customers or SalesPersons can use unique shared facility to manage orders from more then one company using single operation.
+- Using Customer Login your customers can raise new orders, review new offers, Check pending / due account balance, check replacement / credit , Debit Notes.
+- With Online ordering your delivery cycle is faster & time saving.
+- 
 
 ### GST Challanges
 - Supports online submissions of GST returns.
 - Multiple GSTNo for single Customer or Supplier based on delivery addresses can be managed.
 - Change of Tax Rate is effective from Date. Change in Tax Rate will not effect previous transactions.
 - Automatic Transaction lock for the period GST return was filled. No new transactions allowed which effects GST return during that period.
+- Supports EWay Bills
 
 ### App Administraive
 - Multi User support (Built in 5 user basic pack with subscription)
