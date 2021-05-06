@@ -20,27 +20,23 @@ Like we see every element in nature has a role to play and its own importance ma
 
 - **Single Source of Truth:** When we implement Master in any Information system it will become the single source of truth. This is crucial when more then one person is involved in the process. We can assure since we will use Master record as a single source of truth there is no other chances of getting multiple source of information for same entity. This increases more confidence and efficiency for Information System.   
 
-  ### List of Masters for Accounts
-
   Here are List of Masters for Accounts in ActiveBiz.
 
-  - [Area](./AreaMaster.md)
+  ### Related Links
 
-  - Route
+      1. [Area](./AreaMaster.md)
+      2. Route
+      3. [Sales Person](./acc/master/SalesPerson.md)
+      4. Transporter
+      5. Chart Of Accounts
+         1. Schedule
+         2. Account
+            1. General Ledger
+            2. Income Accounts
+            3. Expense Accounts
+            4. Customer Accounts
+            5. Supplier Accounts
 
-  - Schedule
-
-  - Income Account
-
-  - Expense Account
-
-  - General Ledger Account
-
-  - Customer Account
-
-  - Supplier Account
-
-  - Profit Allocation Master
 
     
 

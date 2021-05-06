@@ -14,19 +14,12 @@
    3. Begin your journey with ActiveBiz
 2. [Accounts](./acc/accounts-basics.md)
    1. [Master](./acc/master/acc-master.md)
-      1. [Area](./acc/master/AreaMaster.md)
-      2. Route
-      3. [Sales Person](./acc/master/SalesPerson.md)
-      4. Transporter
-      5. Chart Of Accounts
-         1. Schedule
-         2. Account
-            1. General Ledger
-            2. Income Accounts
-            3. Expense Accounts
-            4. Customer Accounts
-            5. Supplier Accounts
-3. Inventory
+   2. [Transactions](acc/Transaction/acc-Transaction.md)
+   3. [Reprts](acc/Transaction/acc-Transaction.md)
+3. [Inventory](inv/inventory-basic.md()
+   1. [Master](inv/Master/inv-Master.md)
+   2. [Transaction](inv/Transaction/inv-Transaction.md)
+   3. [Report](inv/Report/inv-Report.md)
 4. [How Do I...?](./HowDoI/howdoi-root.md)
 5. [Administrative Tools](./AdminTools/admintools.md) 
 6. [Support](./support/support.md)
