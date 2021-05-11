@@ -1,9 +1,0 @@
-This file is used by the TestProxy unit test. It contains 2 diagrams description.
-
-@startuml
-Nilkanth -> Preyash : UML Implemtnation
-@enduml
-
-@startuml
-version
-@enduml
